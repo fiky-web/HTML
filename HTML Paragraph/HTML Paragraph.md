@@ -2,3 +2,20 @@
 ### Membuat HTML Paragraphs
 Paragraf adalah kumpulan dari beberapa kalimat. Pada web, Paragraf biasanya digunakan untuk menampilkan teks atau artikel.
 Paragraf pada HTML dibuat dengan tag `<p>`. Selain tag ini, ada juga tag pendukung lain seperti `<div>`, `<hr>`, `<br>`, dan `<pre>`.
+
+### Contoh Penerapan `<p>` dengan Code HTML
+Fungsi utama tag `<p>` adalah untuk membuat paragraph.
+
+```HTML
+  <!DOCTYPE html>
+  <html lang="en">
+      <head>
+          <title>Tutorial Paragraf di HTML</title>
+      </head>
+      <body>
+          <p>Ini adalah sebuah paragraf yang berisi sebuah kalimat.
+          Saya sedang belajar HTML. Saat ini Sedang,
+          Belajar membuat paragraf di html.</p>
+      </body>
+  </html>
+```
