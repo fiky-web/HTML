@@ -88,3 +88,12 @@ Tag `<pre>` (preformatting) merupakan tag yang digunakan untuk menampilkan teks 
     </body>
   </html>
 ```
+
+### Contoh Penerapan `<div>` dengan Code HTML
+tag `<div>` berfungsi untuk membuat layout web.
+
+```HTML
+  <footer>
+     <div>&copy; 2021 Belajar HTML by bellshade</div>
+  </footer>
+```
