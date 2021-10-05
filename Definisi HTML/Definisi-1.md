@@ -15,3 +15,7 @@ Beberapa tag memiliki teks tambahan di dalamnya yang memberikan informasi tambah
 ```html
 <tag atribut1="nilai1" atribut2="nilai2"> text </tag>
 ```
+
+Nama tag boleh ditulis dengan huruf kecil, huruf kapital, ataupun kombinasi antara huruf kecil dan huruf kapital.
+
+Teks editor untuk membuat file HTML diantaranya Notepad++, SublimeText, dan Visual Studio Code.
