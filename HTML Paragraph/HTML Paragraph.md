@@ -57,3 +57,34 @@ Fungsi utama tag `<hr>` digunakan untuk membuat garis lurus secara horizontal (h
       </body>
   </html>
 ```
+### Contoh Penerapan `<pre>` dengan Code HTML
+Tag `<pre>` (preformatting) merupakan tag yang digunakan untuk menampilkan teks atau paragraf dalam format yang sudah kita tentukan di HTML.
+
+```HTML
+ <!DOCTYPE html>
+ <html lang="en">
+   <head>
+      <title>Tutorial Paragraf di HTML</title>
+   </head>
+   <body>
+      <h1>Hujan Bulan Juni</h1>
+      <p>oleh Sapardi Djoko Damono</p>
+      <pre>
+        tak ada yang lebih tabah
+        dari hujan bulan Juni
+        dirahasiakannya rintik rindunya
+        kepada pohon berbunga itu
+
+        tak ada yang lebih bijak
+        dari hujan bulan Juni
+        dihapusnya jejak-jejak kakinya
+        yang ragu-ragu di jalan itu
+
+        tak ada yang lebih arif
+        dari hujan bulan Juni
+        dibiarkannya yang tak terucapkan
+        diserap akar pohon bunga itu
+      </pre>
+    </body>
+  </html>
+```
