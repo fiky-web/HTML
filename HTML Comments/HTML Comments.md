@@ -1,7 +1,7 @@
 ## HTML Comments
 
 ### Apa Itu HTML Comments ?
-HTML Comments berfungsi untuk membantu mendokumentasikan sumber kode/source code HTML anda.
+HTML Comments berfungsi untuk membantu mendokumentasikan sumber kode/source code HTML yang anda buat.
 
 Anda dapat menambahkan Comments ke file HTML, dengan sintaks berikut;
 ```HTML
