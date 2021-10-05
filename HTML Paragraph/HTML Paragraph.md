@@ -37,3 +37,23 @@ Fungsi utama tag `<br>` adalah untuk membuat baris baru.
       </body>
   </html>
 ```
+
+### Contoh Penerapan `<hr>` untuk membuat garis dengan Code HTML
+Fungsi utama tag `<hr>` digunakan untuk membuat garis lurus secara horizontal (horizontal rule).
+
+```HTML
+  <!DOCTYPE html>
+  <html lang="en">
+      <head>
+          <title>Tutorial Paragraf di HTML</title>
+      </head>
+      <body>
+          <p>Ini adalah sebuah paragraf yang berisi sebuah kalimat.
+          Saya sedang belajar HTML. Saat ini Sedang,
+          Belajar membuat paragraf di html.</p>
+          <hr />
+          <p>Paragraf adalah kumpulan dari beberapa kalimat yang saling
+          mendukung. Punya ide pokok sebagai dasar dari paragraf itu sendiri.</p>
+      </body>
+  </html>
+```
