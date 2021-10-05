@@ -19,3 +19,21 @@ Fungsi utama tag `<p>` adalah untuk membuat paragraph.
       </body>
   </html>
 ```
+
+### Contoh Penerapan `<br>` dengan Code HTML
+Fungsi utama tag `<br>` adalah untuk membuat baris baru.
+
+```HTML
+  <!DOCTYPE html>
+  <html lang="en">
+      <head>
+          <title>Tutorial Paragraf di HTML #3</title>
+      </head>
+      <body>
+          <p>Aku selalu riang gembira berangkat sekolah <br />
+             bersama nasi yang dibuatkan oleh ibuku <br />
+             iniliah hidup bersusah <br />
+             ya begitulah</p>
+      </body>
+  </html>
+```
