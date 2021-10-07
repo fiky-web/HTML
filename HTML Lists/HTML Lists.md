@@ -2,7 +2,7 @@
 
 ### Apa Itu HTML List ?
 
-HTML List adalah elemen untuk menyajikan data berupa list/daftar.
+HTML List adalah elemen untuk menyajikan data berupa list/daftar secara terurut.
 
 Ada tiga macam list dalam HTML dan masing-masing memiliki tujuan dan makna tertentu.
 
