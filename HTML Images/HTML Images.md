@@ -2,7 +2,7 @@
 
 ## Apa itu HTML Images?
 
-HTML memiliki sebuah elemen `<img>` yang berguna dalam melakukan membangun sebuah website. Tanpa adanya gambar website akan terasa sangat membosankan, maka dari itu kalian perlu mempelajari tentang HTML Images atau memasukkan gambar.
+HTML memiliki sebuah elemen `<img>` yang berguna dalam melakukan membangun sebuah website. Tanpa adanya gambar website akan terasa sangat membosankan, maka dari itu kalian perlu mempelajari tentang HTML Images atau memasukkan gambar pada website.
 
 Nah cara penulisan tag `<img>` sendiri tidak memerlukan tag penutup, atau lebih jelasnya adalah seperti ini:
 
