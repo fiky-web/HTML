@@ -40,7 +40,3 @@ Jika file gambar ada di suatu link di internet.
 ```
 
 Namun sebagai catatan jika ingin mengutip gambar dari suatu link di internet, pastikan tidak melanggar hak cipta dari kepemilikan gambar tersebut.
-
-## Referensi
-
-Untuk referensi lengkapnya, kalian bisa mengunjungi [website berikut](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML).
